@@ -1,5 +1,5 @@
-import classes_for_main_classes_and_objects.class_Product as p
-import classes_for_main_classes_and_objects.class_Student as s
+import classes_for_main_exe.class_Product as p
+import classes_for_main_exe.class_Student as s
 
 
 def answers():
