@@ -9,7 +9,7 @@ class Book():
             raise ValueError("copies must be at least 1")
         self.copies = copies
         self.available = copies
-        self.total_books += 1
+        Book.total_books += 1
         # self.available.append({"name":name,"author":author,"available_copies":copies})
         
 
